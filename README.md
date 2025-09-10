@@ -13,14 +13,6 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 
 ---
 
-## 🎯 Minat & Hobi
-- 📘 Belajar dan mengajar [bidang yang kamu suka]  
-- 🎶 Mendengarkan musik dan menonton pertunjukan seni budaya  
-- 🌍 Traveling & menjelajah tempat baru  
-- 🧠 Belajar tentang psikologi dan kesehatan mental  
-
----
-
 ## 📚 Mata Kuliah yang Sedang Dipelajari
 
 | No | Tanggal         | Topik                                           | Laporan            | Repository  |
