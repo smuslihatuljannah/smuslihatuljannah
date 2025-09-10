@@ -1,0 +1,33 @@
+# Hi, Welcome to My Profile 👋
+
+## 📖 Tentang Saya
+Halo, saya Siti Muslihatul Jannah, seorang mahasiswa aktif di Universitas Islam Negeri Maulana Malik Ibrahim Malang.  
+Saat ini saya sedang belajar **Pemrograman Mobile**.
+
+---
+
+## 🆔 Identitas
+- **Nama** : Siti Muslihatul Jannah  
+- **NIM** : 230605110299  
+- **Kelas** : Praktikum Mobile Programming A 
+
+---
+
+## 🎯 Minat & Hobi
+- 📘 Belajar dan mengajar [bidang yang kamu suka]  
+- 🎶 Mendengarkan musik dan menonton pertunjukan seni budaya  
+- 🌍 Traveling & menjelajah tempat baru  
+- 🧠 Belajar tentang psikologi dan kesehatan mental  
+
+---
+
+## 📚 Mata Kuliah yang Sedang Dipelajari
+
+| No | Tanggal         | Topik                                           | Laporan            | Repository  |
+|----|-----------------|-------------------------------------------------|--------------------|-------------|
+| 1  | 5 September 2025 | Pengenalan Mobile Programming dan Setup         | [Laporan 1](https://drive.google.com/drive/folders/1GCnQt4iaTOuWdPafs5CLvJ6ngdbrEfZ3?usp=sharing "Laporan 1")    | [Modul 1](https://github.com/smuslihatuljannah/prak-mobile-modul-1 "Modul 1") |
+| 2  | 12 September 2025 | Widget Row dan Column                          |    [laporan 2](https://drive.google.com/drive/folders/1Ym96K3DPdfN4sU2f-CZfHa-d9472KkKn?usp=sharing "laporan 2")  |[Modul 2](https://github.com/smuslihatuljannah/prak-mobile-modul-2 "Modul 2")|
+| 3  | 19 September 2025 | Pengaturan Layout Row dan Column di Flutter    | [Laporan 3](#)     | [Modul 3](#) |
+| 4  | 26 September 2025 | Widget Flexible dan Expanded                   | [Laporan 4](#)     | [Modul 4](#) |
+
+---
