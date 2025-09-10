@@ -17,8 +17,8 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 
 | No | Tanggal         | Topik                                           | Laporan            | Repository  |
 |----|-----------------|-------------------------------------------------|--------------------|-------------|
-| 1  | 5 September 2025 | Pengenalan Mobile Programming dan Setup         | [Laporan 1](https://drive.google.com/drive/folders/1GCnQt4iaTOuWdPafs5CLvJ6ngdbrEfZ3?usp=sharing "Laporan 1")    | [Modul 1](https://github.com/smuslihatuljannah/prak-mobile-modul-1 "Modul 1") |
-| 2  | 12 September 2025 | Widget Row dan Column                          |    [laporan 2](https://drive.google.com/drive/folders/1Ym96K3DPdfN4sU2f-CZfHa-d9472KkKn?usp=sharing "laporan 2")  |[Modul 2](https://github.com/smuslihatuljannah/prak-mobile-modul-2 "Modul 2")|
+| 1  | 9 September 2025 | Pengenalan Mobile Programming dan Setup         | [Laporan 1](https://drive.google.com/drive/folders/1GCnQt4iaTOuWdPafs5CLvJ6ngdbrEfZ3?usp=sharing "Laporan 1")    | [Modul 1](https://github.com/smuslihatuljannah/prak-mobile-modul-1 "Modul 1") |
+| 2  | 9 September 2025 | Widget Row dan Column                          |    [laporan 2](https://drive.google.com/drive/folders/1Ym96K3DPdfN4sU2f-CZfHa-d9472KkKn?usp=sharing "laporan 2")  |[Modul 2](https://github.com/smuslihatuljannah/prak-mobile-modul-2 "Modul 2")|
 | 3  | 19 September 2025 | Pengaturan Layout Row dan Column di Flutter    | [Laporan 3](#)     | [Modul 3](#) |
 | 4  | 26 September 2025 | Widget Flexible dan Expanded                   | [Laporan 4](#)     | [Modul 4](#) |
 
