@@ -27,5 +27,6 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 | 8  | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8](https://drive.google.com/file/d/1sUZIjL-BgAlhjsDhBhzdV8fhIKNNkHH7/view?usp=sharing "Laporan 8") | [Modul 8](https://github.com/smuslihatuljannah/prak-mobile-modul-8 "Modul 8") |
 | 9  | 5 | Stateful Widget                   | [Laporan 9](https://drive.google.com/file/d/1IXSbkHiVHD2lKG4cz52czNBGlG97I28k/view?usp=sharing "Laporan 9") | [Modul 9](https://github.com/smuslihatuljannah/prak-mobile-modul-9 "Modul 9") |
 | 10  | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                   | [Laporan 10](https://drive.google.com/file/d/1AYVx_a7daDCRWkdrBkeVUnsDdlsLGnoe/view?usp=sharing "Laporan 10") | [Modul 10](https://github.com/smuslihatuljannah/prak-mobile-modul-10 "Laporan 10") |
+| 11  | 7 | Manajemen State dengan GetX                   | [Laporan 11](https://drive.google.com/file/d/1QpLeDdMLTZ_4gt3htn77TC5dVSg1R8f3/view?usp=sharing "Laporan 11") | [Modul 11](https://github.com/smuslihatuljannah/prak-mobile-modul-11 "Modul 11") |
 
 ---
